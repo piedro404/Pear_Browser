@@ -6,7 +6,7 @@ from PyQt5.QtGui import QIcon, QPixmap, qPixelFormatAlpha
 
 #Urls
 home_url = "https://www.google.com"
-creator_url= "https://www.instagram.com/wolfpiedro.art/"
+creator_url= "https://www.instagram.com/piedro_404/"
 github_url = "https://github.com"
 discord_url = "https://discord.com/app"
 whatsapp_url = "https://whatsapp.com/app"
