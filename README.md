@@ -1,6 +1,8 @@
 # Pear_Browser
 Personal Project that aims to create a simple browser using Python
 
+![image](https://user-images.githubusercontent.com/88720549/163219328-cf2ee3e5-7e10-41e4-bc14-7346707b051d.png)
+
 # Message for you
 Hello, I hope you have a good learning experience, that you can clear your doubts or implement your projects. Feel free to make suggestions to improve the script.
 
